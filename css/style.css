@@ -26,9 +26,17 @@ header {
 
 .car-container {
     width: calc(100% / 3);
-    padding: 1em;
+    padding: 1.5em;
+}
+
+.car-inner-container {
+    padding: 1.5em;
     color: white;
     border: 1px solid white;
+}
+
+.key-title {
+    color: red;
 }
 
 .car-photo {
