@@ -16,7 +16,7 @@ $usedCars = [
         "accessories" => 'Window lift switch for car, Velcro carpet car mats',
         "car_porter" => 5,
         "traction" => 'front-wheel drive',
-        "price" => 9000,
+        "price" => 9000.50,
         "photo" => 'https://cdn.shortpixel.ai/spai/w_1000+q_lossy+ret_img+to_webp/https://www.motorimagazine.it/wp-content/uploads/2018/08/fiat-punto.jpg',
     ],
     [
@@ -35,7 +35,7 @@ $usedCars = [
         "accessories" => '',
         "car_porter" => 3,
         "traction" => 'front-wheel drive',
-        "price" => 28500,
+        "price" => 2850.000,
         "photo" => 'https://cdn.motor1.com/images/mgl/BqPZM/s3/2021-audi-r8-rwd-panther-edition.jpg',
     ],
     [
@@ -54,7 +54,7 @@ $usedCars = [
         "accessories" => 'Window lift switch for car',
         "car_porter" => 5,
         "traction" => 'front-wheel drive',
-        "price" => 7500,
+        "price" => 7500.00,
         "photo" => 'https://www.motorinotizie.it/wp-content/uploads/2020/02/panda1-1210x642.jpg',
     ],
     [
@@ -73,7 +73,7 @@ $usedCars = [
         "accessories" => '',
         "car_porter" => 5,
         "traction" => 'front-wheel drive',
-        "price" => 1500,
+        "price" => 1500.00,
         "photo" => 'https://pbs.twimg.com/media/DvMW8eZXQAAAeSJ?format=png&name=large',
     ],
     [
@@ -92,7 +92,7 @@ $usedCars = [
         "accessories" => 'Window lift switch for car',
         "car_porter" => 5,
         "traction" => 'front-wheel drive',
-        "price" => 7500,
+        "price" => 7500.00,
         "photo" => 'https://www.motorinotizie.it/wp-content/uploads/2020/02/panda1-1210x642.jpg',
     ],
     [
@@ -111,7 +111,7 @@ $usedCars = [
         "accessories" => '',
         "car_porter" => 5,
         "traction" => 'front-wheel drive',
-        "price" => 18500,
+        "price" => 1850.000,
         "photo" => 'https://www.nanninember.it/bmw-serie-1-con-why-buy-evo~7~8~429~429.jpeg',
     ],
     [
@@ -130,7 +130,8 @@ $usedCars = [
         "accessories" => '',
         "car_porter" => 5,
         "traction" => 'front-wheel drive',
-        "price" => 7500,
+        "price" => 7500.00,
         "photo" => '',
     ],
 ];
+?>
